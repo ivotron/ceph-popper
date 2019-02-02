@@ -1,4 +1,4 @@
-# Ceph
+# Popper pipelines for Ceph
 
 ## Prerequisites
 * Popper  
